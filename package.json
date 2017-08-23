@@ -1,9 +1,17 @@
 {
-    "name": "markdown-katex",
-    "displayName": "Markdown Katex",
-    "description": "Adds the markdown-it-katex plugin.",
+    "name": "markdown-math",
+    "displayName": "Markdown Math",
+    "description": "Adds math support to VS Code's built-in markdown preview.",
     "version": "0.0.1",
     "publisher": "koehlma",
+    "license": "MIT",
+    "icon": "./logo/logo123.png",
+    "repository": {
+        "url": "https://github.com/koehlma/vscode-markdown-math.git"
+    },
+    "bugs": {
+        "url": "https://github.com/koehlma/vscode-markdown-math/issues"
+    },    
     "engines": {
         "vscode": "^1.15.0"
     },
