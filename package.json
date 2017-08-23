@@ -2,10 +2,11 @@
     "name": "markdown-math",
     "displayName": "Markdown Math",
     "description": "Adds math support to VS Code's built-in markdown preview.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "koehlma",
     "license": "MIT",
-    "icon": "./logo/logo123.png",
+    "icon": "images/logo128.png",
+    "homepage": "https://github.com/koehlma/vscode-markdown-math/README.md",
     "repository": {
         "url": "https://github.com/koehlma/vscode-markdown-math.git"
     },
